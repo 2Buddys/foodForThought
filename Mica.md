@@ -38,13 +38,3 @@ Skimming words
 
 
 
-
-<<<<<<< HEAD
->>>>>>> b3a4a44e64e23276e13a4ae2856a8a56d1d21270
-# francois
-# HappyFridays
-=======
-
->>>>>>> 8f7abc6de92edba335e152298e0acbfc7263a4fa
-# HappyFridays
-# HappyFridaySessions
